@@ -1,0 +1,7 @@
+method,confidence,actual_breaches,expected_breaches,breach_ratio
+historical,0.95,102,101.8,1.0
+historical,0.99,21,20.4,1.03
+parametric,0.95,97,101.8,0.95
+parametric,0.99,34,20.4,1.67
+monte_carlo,0.95,114,101.8,1.12
+monte_carlo,0.99,23,20.4,1.13
