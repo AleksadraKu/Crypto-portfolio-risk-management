@@ -46,7 +46,6 @@ The portfolio's own historical VaR-99 (10.15%) exceeds BTC's individual VaR-99 (
 crypto-risk-dashboard/
 ├── README.md
 ├── requirements.txt
-├── src/
 │   └── risk_metrics.py
 ├── notebooks/
 │   ├── 01_data_loader.ipynb
